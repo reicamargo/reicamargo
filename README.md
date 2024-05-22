@@ -23,7 +23,7 @@ This time I choose to focus on iOS platform, so my old friend Swift and I became
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reicamargo&layout=donut&show_icons=true&theme=dracula)
 <br/><hr>
 
-### 🐍 SnaKO
+### 🐍 SnaKeO
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reicamargo/reicamargo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reicamargo/reicamargo/output/github-contribution-grid-snake.svg">
