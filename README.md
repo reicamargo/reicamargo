@@ -6,7 +6,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reicamargo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- ![Snake animation](https://github.com/reicamargo/reicamargo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/reicamargo/reicamargo/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
 <!--
 **reicamargo/reicamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
