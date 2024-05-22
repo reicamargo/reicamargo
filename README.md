@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div>
+  <a href="https://github.com/reicamargo">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=reicamargo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reicamargo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <!--
 **reicamargo/reicamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
