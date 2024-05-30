@@ -2,9 +2,9 @@
 
 I'm Reinaldo and I've been working with Digital Products in the past 12 years. 
 
-At the beginning of my professional carrier I started as a C#, Web and Swifft programmer. Later on, I migrated to a more process oriented role: so I started to work as an Agile Coach. 
+At the beginning of my professional carrier I started as a C#, Web and Swift programmer. Later on, I switched to a more process oriented role: so I started to work as an Agile Coach. 
 
-Many years has passed and I found myself frustared and stucked in Agile. It seemed to me that I wasn't been chalenged anymore and I was not learning anything new. So, I recently decided to go back to my origins: my developer days.
+Many years has passed and I found myself frustrated and got stuck in Agile. It seemed to me that I wasn't been challenged anymore and I was not learning anything new. So, I recently decided to go back to my origins: my developer days.
 
 This time I choose to focus on iOS platform, so my old friend Swift and I became friends again. =)
 <br/><hr>
