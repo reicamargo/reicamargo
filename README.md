@@ -4,7 +4,7 @@ I'm Reinaldo and I've been working with Digital Products in the past 10 years.
 
 At the beginning of my professional carrier I started as a C#, Web and Swift programmer. Later on, I switched to a more process oriented role: so I started to work as an Agile Coach. 
 
-Even working with Agility I've never been far from software development. Specially iOS app development =)
+Even working with Agility I've never been far from software development, specially iOS app development =)
 <br/><hr>
 
 ### 💻 Tech Stack 
