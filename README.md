@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I'm Reinaldo and I've been working with Digital Products in the past 10 years. 
+ I have 10+ years of experience working with digital products, blending technical expertise and strategic thinking. I started my career coding in C#, Web, and Swift, and later transitioned into leadership and process-oriented roles.
 
-At the beginning of my professional carrier I started as a C#, Web and Swift programmer. Later on, I switched to a more process oriented / management role.
-
-Even though I’ve been in management, I’ve always stayed close to software development.<br/><hr>
-
+Despite the shift, I’ve always kept a strong connection to software development — and today, I’m focused on building intelligent systems with AI engineering, large language models, and emerging technologies.
 ### 💻 Tech Stack 
 
 <div stile="display: inline_block"><br/>
